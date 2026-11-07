@@ -1,0 +1,6 @@
+{
+  "name": "NEXUNIT Automotive & Products Marketplace",
+  "description": "Premium automotive marketplace and e-commerce platform for automobiles, WD-40 products, and car care essentials operated by NEXUNIT COOPERATION.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

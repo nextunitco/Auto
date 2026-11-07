@@ -1,0 +1,487 @@
+{
+  "vehicles": [
+    {
+      "id": "veh-1",
+      "make": "Mercedes-Benz",
+      "model": "EQS 450+ Luxury Sedan",
+      "year": 2024,
+      "price": 104400,
+      "samplePriceNotice": "Sample demonstration price - Contact for exact quote",
+      "isDemonstration": true,
+      "mileage": "4,200 km",
+      "transmission": "Automatic",
+      "fuelType": "Electric",
+      "condition": "Brand New",
+      "engineCapacity": "Electric 108.4 kWh (329 hp)",
+      "exteriorColor": "High-Tech Silver Metallic",
+      "interiorColor": "Neva Grey / Balao Brown Nappa Leather",
+      "description": "The flagship Mercedes-Benz EQS 450+ represents the pinnacle of modern luxury electric touring. Features an aerodynamic silhouette, MBUX Hyperscreen interface, Burmester 3D Surround Sound, air suspension with adaptive damping, and up to 350 miles of refined range.",
+      "features": [
+        "MBUX Hyperscreen with 3 displays",
+        "Burmester 3D Surround Audio",
+        "Airmatic Air Suspension",
+        "Driver Assistance Package Plus",
+        "Panoramic Sliding Sunroof",
+        "Ventilated & Massage Front Seats",
+        "21-inch AMG Multi-Spoke Wheels"
+      ],
+      "images": [
+        "/src/assets/images/hero_automotive_showroom_1794036248039.jpg",
+        "/src/assets/images/car_sedan_executive_1794036248811.jpg"
+      ],
+      "status": "Available",
+      "featured": true,
+      "createdAt": "2026-11-07T07:34:32.148Z"
+    },
+    {
+      "id": "veh-2",
+      "make": "Genesis",
+      "model": "GV80 3.5T Prestige AWD",
+      "year": 2024,
+      "price": 78500,
+      "samplePriceNotice": "Sample demonstration price - Vehicle inquiry recommended",
+      "isDemonstration": true,
+      "mileage": "9,800 km",
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "condition": "Certified Pre-Owned",
+      "engineCapacity": "3.5L Twin-Turbo V6 (375 hp)",
+      "exteriorColor": "Cardiff Green Metallic",
+      "interiorColor": "Smoky Green & Vanilla Beige Leather",
+      "description": "Imposing luxury midsize SUV engineered with an athletic twin-turbo V6 engine, electronically controlled suspension with road preview, 14.5-inch infotainment display, and premium Lexicon 21-speaker acoustic architecture.",
+      "features": [
+        "Twin-Turbo V6 375 HP AWD",
+        "Electronically Controlled Suspension w/ Road Preview",
+        "Lexicon Premium 21-Speaker Sound",
+        "Smart Cruise Control & Highway Driving Assist II",
+        "Head-Up Display",
+        "Heated & Ventilated 2nd Row Seating",
+        "22-inch G-Matrix Diamond-Cut Alloys"
+      ],
+      "images": [
+        "/src/assets/images/car_suv_luxury_1794036248823.jpg",
+        "/src/assets/images/hero_automotive_showroom_1794036248039.jpg"
+      ],
+      "status": "Available",
+      "featured": true,
+      "createdAt": "2026-11-07T07:34:32.149Z"
+    },
+    {
+      "id": "veh-3",
+      "make": "Mercedes-Benz",
+      "model": "S 580 4MATIC Executive",
+      "year": 2023,
+      "price": 124500,
+      "samplePriceNotice": "Sample demonstration price - Available for purchase inquiry",
+      "isDemonstration": true,
+      "mileage": "14,500 km",
+      "transmission": "Automatic",
+      "fuelType": "Hybrid",
+      "condition": "Certified Pre-Owned",
+      "engineCapacity": "4.0L V8 Biturbo with EQ Boost (496 hp)",
+      "exteriorColor": "Obsidian Black Metallic",
+      "interiorColor": "Exclusive Black Nappa Leather",
+      "description": "The definitive benchmark of automotive refinement. Equipped with an electrified 496-horsepower V8 biturbo, rear-axle steering for effortless agility, active multicontour seats with energizing comfort modes, and soft-close doors.",
+      "features": [
+        "Electrified 4.0L V8 Biturbo (496 hp)",
+        "4.5-Degree Rear-Axle Steering",
+        "Burmester High-End 4D Surround Sound",
+        "Executive Rear Seating Package",
+        "Augmented Reality Head-Up Display",
+        "Active Ambient Lighting (64 Colors)",
+        "Soft-Close Power Doors"
+      ],
+      "images": [
+        "/src/assets/images/car_sedan_executive_1794036248811.jpg",
+        "/src/assets/images/hero_automotive_showroom_1794036248039.jpg"
+      ],
+      "status": "Available",
+      "featured": true,
+      "createdAt": "2026-11-07T07:34:32.149Z"
+    },
+    {
+      "id": "veh-4",
+      "make": "Porsche",
+      "model": "Cayenne GTS Coupe",
+      "year": 2023,
+      "price": 112000,
+      "samplePriceNotice": "Sample demonstration price - Reserved for client inspection",
+      "isDemonstration": true,
+      "mileage": "16,200 km",
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "condition": "Foreign Used",
+      "engineCapacity": "4.0L Twin-Turbo V8 (453 hp)",
+      "exteriorColor": "Crayon Grey",
+      "interiorColor": "GTS Alcantara & Black Leather Package",
+      "description": "Pure sports car performance fused with everyday SUV capability. The Cayenne GTS Coupe features a lowered sport air suspension, sport exhaust system with central tailpipes, Sport Chrono Package, and carbon interior trim.",
+      "features": [
+        "4.0L Twin-Turbo V8 Engine",
+        "Sport Chrono Package with Mode Switch",
+        "Porsche Adaptive Air Suspension (PASM)",
+        "Sport Exhaust System in Black",
+        "Panoramic Fixed Glass Roof",
+        "21-inch RS Spyder Design Wheels"
+      ],
+      "images": [
+        "/src/assets/images/car_suv_luxury_1794036248823.jpg",
+        "/src/assets/images/car_sedan_executive_1794036248811.jpg"
+      ],
+      "status": "Reserved",
+      "featured": false,
+      "createdAt": "2026-11-07T07:34:32.149Z"
+    }
+  ],
+  "products": [
+    {
+      "id": "prod-1",
+      "name": "WD-40 Multi-Use Smart Straw Spray",
+      "category": "WD-40 Products",
+      "sizeVariant": "400ml Spray Can",
+      "variants": [
+        {
+          "id": "var-1",
+          "name": "400ml Smart Straw Can",
+          "price": 12.5,
+          "stock": 120
+        },
+        {
+          "id": "var-2",
+          "name": "500ml Heavy-Duty Can",
+          "price": 15,
+          "stock": 65
+        },
+        {
+          "id": "var-3",
+          "name": "Pack of 3 (400ml)",
+          "price": 34,
+          "stock": 40
+        }
+      ],
+      "price": 12.5,
+      "isDemonstrationPrice": false,
+      "description": "The genuine multi-use maintenance spray trusted by automotive technicians worldwide. Displaces moisture, prevents rust, loosens seized bolts, penetrates sticky mechanisms, and stops squeaks with the permanently attached flip-up Smart Straw.",
+      "specifications": [
+        "Dual-action precision spray applicator (Smart Straw)",
+        "Water displacing formulation",
+        "Safe on metal, rubber, wood, and most automotive plastics",
+        "Dielectric strength up to 38,000 volts"
+      ],
+      "stock": 120,
+      "isAvailable": true,
+      "images": [
+        "/src/assets/images/product_wd40_can_1794036250079.jpg"
+      ],
+      "featured": true,
+      "createdAt": "2026-11-07T07:34:32.149Z"
+    },
+    {
+      "id": "prod-2",
+      "name": "WD-40 Specialist High Performance Silicone Lubricant",
+      "category": "Lubricants",
+      "sizeVariant": "400ml Spray Can",
+      "variants": [
+        {
+          "id": "var-4",
+          "name": "400ml Precision Can",
+          "price": 16,
+          "stock": 75
+        }
+      ],
+      "price": 16,
+      "isDemonstrationPrice": false,
+      "description": "Professional-grade non-staining, hard-wearing formula that provides outstanding lubrication without attracting dirt or grime. Perfect for automotive door seals, rubber hoses, window channels, and drive belts.",
+      "specifications": [
+        "Temperature range: -35°C to +200°C",
+        "Prevents sticking and binding of parts",
+        "Waterproofs and protects against moisture",
+        "Safe on rubber weatherstrips and vinyl trims"
+      ],
+      "stock": 75,
+      "isAvailable": true,
+      "images": [
+        "/src/assets/images/product_wd40_can_1794036250079.jpg"
+      ],
+      "featured": true,
+      "createdAt": "2026-11-07T07:34:32.149Z"
+    },
+    {
+      "id": "prod-3",
+      "name": "Veloce Pro Gloss Quick Detailer & Ceramic Enhancer",
+      "category": "Car Care",
+      "sizeVariant": "500ml Spray Bottle",
+      "variants": [
+        {
+          "id": "var-5",
+          "name": "500ml Trigger Bottle",
+          "price": 24.99,
+          "stock": 45
+        },
+        {
+          "id": "var-6",
+          "name": "1000ml Refill Bottle",
+          "price": 39.99,
+          "stock": 20
+        }
+      ],
+      "price": 24.99,
+      "isDemonstrationPrice": false,
+      "description": "Infused with ultra-slick SiO2 ceramic polymers to instantly remove light dust, fingerprints, and road haze while leaving a mirror-gloss hydrophobic finish that repels rainwater and contamination.",
+      "specifications": [
+        "Safe on all clear coats, wraps, and ceramic coatings",
+        "Streak-free hydrophobic slickness",
+        "Includes premium dual-pile microfiber buffing cloth",
+        "Pleasant citrus fragrance"
+      ],
+      "stock": 45,
+      "isAvailable": true,
+      "images": [
+        "/src/assets/images/product_detailing_kit_1794036249646.jpg"
+      ],
+      "featured": true,
+      "createdAt": "2026-11-07T07:34:32.149Z"
+    },
+    {
+      "id": "prod-4",
+      "name": "WD-40 Specialist Fast Release Penetrant",
+      "category": "WD-40 Products",
+      "sizeVariant": "400ml Can",
+      "variants": [
+        {
+          "id": "var-7",
+          "name": "400ml Can",
+          "price": 14.5,
+          "stock": 55
+        }
+      ],
+      "price": 14.5,
+      "isDemonstrationPrice": false,
+      "description": "Specifically engineered to target rusted or corroded nuts, bolts, threads, and locks. Penetrates into micro-crevices within seconds to free frozen assemblies without stripping threads.",
+      "specifications": [
+        "Fast-acting low surface tension formula",
+        "Penetrates rust, scale, and corrosion rapidly",
+        "Leaves a light protective lubricating film",
+        "Smart Straw 360° valve"
+      ],
+      "stock": 55,
+      "isAvailable": true,
+      "images": [
+        "/src/assets/images/product_wd40_can_1794036250079.jpg"
+      ],
+      "featured": true,
+      "createdAt": "2026-11-07T07:34:32.149Z"
+    },
+    {
+      "id": "prod-5",
+      "name": "Ceramic Wheel & Brake Dust Decontamination Gel",
+      "category": "Cleaning Products",
+      "sizeVariant": "750ml Spray",
+      "variants": [
+        {
+          "id": "var-8",
+          "name": "750ml Trigger Bottle",
+          "price": 21.5,
+          "stock": 38
+        }
+      ],
+      "price": 21.5,
+      "isDemonstrationPrice": false,
+      "description": "pH-balanced iron fallout remover that clings to vertical wheel surfaces, turning deep purple as it dissolves embedded brake dust and metallic fallout without acid degradation.",
+      "specifications": [
+        "Acid-free, safe on clear coated, diamond cut, and painted alloys",
+        "Color-changing active reaction indicator",
+        "Thick gel formulation for maximum dwell time"
+      ],
+      "stock": 38,
+      "isAvailable": true,
+      "images": [
+        "/src/assets/images/product_detailing_kit_1794036249646.jpg"
+      ],
+      "featured": true,
+      "createdAt": "2026-11-07T07:34:32.149Z"
+    },
+    {
+      "id": "prod-6",
+      "name": "Ultra-Dense Edgeless Microfiber Drying Towel Set",
+      "category": "Automotive Accessories",
+      "sizeVariant": "Pack of 2 (60x90cm)",
+      "variants": [
+        {
+          "id": "var-9",
+          "name": "2-Pack (800 GSM)",
+          "price": 18,
+          "stock": 80
+        }
+      ],
+      "price": 18,
+      "isDemonstrationPrice": false,
+      "description": "Lint-free, scratch-free 800 GSM twisted loop microfiber towels that absorb over 10 times their weight in water for effortless streak-free vehicle drying in a single pass.",
+      "specifications": [
+        "800 GSM high-density split microfiber",
+        "Laser-cut ultrasonic edgeless design",
+        "Safe for sensitive piano black and soft paints",
+        "Machine washable up to 200 cycles"
+      ],
+      "stock": 80,
+      "isAvailable": true,
+      "images": [
+        "/src/assets/images/product_detailing_kit_1794036249646.jpg"
+      ],
+      "featured": false,
+      "createdAt": "2026-11-07T07:34:32.149Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "NX-2026-1042",
+      "type": "product",
+      "items": [
+        {
+          "id": "prod-1",
+          "name": "WD-40 Multi-Use Smart Straw Spray",
+          "price": 12.5,
+          "quantity": 2,
+          "sizeVariant": "400ml Smart Straw Can",
+          "image": "/src/assets/images/product_wd40_can_1794036250079.jpg",
+          "type": "product"
+        },
+        {
+          "id": "prod-3",
+          "name": "Veloce Pro Gloss Quick Detailer & Ceramic Enhancer",
+          "price": 24.99,
+          "quantity": 1,
+          "sizeVariant": "500ml Trigger Bottle",
+          "image": "/src/assets/images/product_detailing_kit_1794036249646.jpg",
+          "type": "product"
+        }
+      ],
+      "customer": {
+        "fullName": "Marcus Vance",
+        "email": "m.vance@example.com",
+        "phone": "+1 (555) 234-5678",
+        "address": "742 Evergreen Parkway, Suite 12",
+        "city": "Austin",
+        "state": "Texas",
+        "notes": "Please leave package at the side workshop entrance."
+      },
+      "subtotal": 49.99,
+      "deliveryFee": 15,
+      "total": 64.99,
+      "paymentMethod": "bank_transfer",
+      "paymentStatus": "Payment Confirmed",
+      "paymentReference": "BT-TX-98412",
+      "orderStatus": "Completed",
+      "createdAt": "2026-11-04T07:34:32.149Z",
+      "commissionCalculated": true,
+      "commissionAmount": 3.5,
+      "commissionRateApplied": "7.0% (Product)",
+      "netToBusiness": 61.49,
+      "commissionPaid": true,
+      "commissionPaidAt": "2026-11-06T07:34:32.149Z",
+      "commissionPaymentRef": "NEX-PAY-0041",
+      "adminNotes": "Payment verified via bank statement."
+    },
+    {
+      "id": "NX-2026-1043",
+      "type": "product",
+      "items": [
+        {
+          "id": "prod-2",
+          "name": "WD-40 Specialist High Performance Silicone Lubricant",
+          "price": 16,
+          "quantity": 3,
+          "sizeVariant": "400ml Precision Can",
+          "image": "/src/assets/images/product_wd40_can_1794036250079.jpg",
+          "type": "product"
+        }
+      ],
+      "customer": {
+        "fullName": "Elena Rostova",
+        "email": "elena.r@example.com",
+        "phone": "+1 (555) 876-5432",
+        "address": "120 Ocean View Blvd",
+        "city": "Miami",
+        "state": "Florida"
+      },
+      "subtotal": 48,
+      "deliveryFee": 15,
+      "total": 63,
+      "paymentMethod": "bank_transfer",
+      "paymentStatus": "Pending",
+      "orderStatus": "Pending",
+      "createdAt": "2026-11-06T23:34:32.149Z",
+      "commissionCalculated": false,
+      "commissionAmount": 0,
+      "commissionRateApplied": "7.0% (Product)",
+      "netToBusiness": 63,
+      "commissionPaid": false
+    }
+  ],
+  "enquiries": [
+    {
+      "id": "enq-101",
+      "type": "vehicle",
+      "itemId": "veh-1",
+      "itemTitle": "2024 Mercedes-Benz EQS 450+ Luxury Sedan",
+      "customerName": "David Sterling",
+      "customerPhone": "+1 (555) 443-8901",
+      "customerEmail": "dsterling@executivecapital.com",
+      "message": "Hello, I would like to confirm inspection availability for the 2024 EQS 450+ this coming Saturday morning.",
+      "status": "In Progress",
+      "followUpNotes": "Spoke with David. Scheduled viewing for Saturday 11:00 AM at showroom.",
+      "createdAt": "2026-11-05T07:34:32.149Z"
+    },
+    {
+      "id": "enq-102",
+      "type": "vehicle",
+      "itemId": "veh-2",
+      "itemTitle": "2024 Genesis GV80 3.5T Prestige AWD",
+      "customerName": "Sarah Jenkins",
+      "customerPhone": "+1 (555) 321-7654",
+      "customerEmail": "sarah.j@outlook.com",
+      "message": "Interested in financing options and trade-in evaluation for a 2020 Lexus RX toward this GV80.",
+      "status": "New",
+      "followUpNotes": "Awaiting customer response to initial valuation questionnaire.",
+      "createdAt": "2026-11-06T19:34:32.149Z"
+    }
+  ],
+  "commissions": [
+    {
+      "id": "comm-1",
+      "orderId": "NX-2026-1042",
+      "itemType": "product",
+      "saleAmount": 49.99,
+      "commissionAmount": 3.5,
+      "commissionRate": "7.0% (Product)",
+      "netToBusiness": 61.49,
+      "status": "Paid",
+      "settlementDate": "2026-11-06T07:34:32.149Z",
+      "paymentReference": "NEX-PAY-0041",
+      "notes": "Monthly product batch settlement paid to NEXUNIT COOPERATION account.",
+      "createdAt": "2026-11-04T07:34:32.149Z"
+    }
+  ],
+  "settings": {
+    "businessName": "NEXUNIT Automotive & Products",
+    "businessEmail": "nextunitco@gmail.com",
+    "businessPhone": "+234 811 162 1502",
+    "whatsappNumber": "2348111621502",
+    "vehicleCommissionType": "percentage",
+    "vehicleCommissionValue": 2.5,
+    "productCommissionType": "percentage",
+    "productCommissionValue": 7,
+    "deliveryFee": 15,
+    "freeDeliveryThreshold": 120,
+    "vehicleDirectCheckoutEnabled": false,
+    "bankName": "Standard Commerce Bank",
+    "bankAccountName": "NEXUNIT AUTO SALES & TRADING",
+    "bankAccountNumber": "1029384756",
+    "bankSortCodeOrSwift": "SCBNG044",
+    "paystackEnabled": false,
+    "paystackPublicKey": "",
+    "flutterwaveEnabled": false,
+    "flutterwavePublicKey": "",
+    "currencySymbol": "$"
+  },
+  "adminToken": "nexunit_admin_token_2026_secure"
+}
