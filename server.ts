@@ -193,6 +193,39 @@ const SEED_VEHICLES: Vehicle[] = [
     featured: false,
     createdAt: new Date().toISOString(),
   },
+  {
+    id: 'veh-5',
+    make: 'Porsche',
+    model: '911 GT Heritage Coupe',
+    year: 2024,
+    price: 165000,
+    samplePriceNotice: 'Sample demonstration price - Inquire on WhatsApp or Email to discuss',
+    isDemonstration: true,
+    mileage: '1,200 km',
+    transmission: 'Automatic',
+    fuelType: 'Petrol',
+    condition: 'Brand New',
+    engineCapacity: '3.8L Twin-Turbo Boxer 6 (640 hp)',
+    exteriorColor: 'Chalk Pure White',
+    interiorColor: 'Heritage Cognac & Pepita Houndstooth',
+    description:
+      'An aerodynamic masterpiece engineered with a 640-horsepower twin-turbo flat-six, lightweight titanium sports exhaust, ceramic composite brakes, and bespoke Heritage interior.',
+    features: [
+      '640 HP Twin-Turbo Flat-6',
+      'Porsche Ceramic Composite Brakes (PCCB)',
+      'Sport Chrono Package with Mode Switch',
+      'Front Axle Lift System',
+      'Burmester High-End Surround Sound',
+      '20/21-inch Turbo S Center-Lock Wheels',
+    ],
+    images: [
+      '/src/assets/images/car_sports_coupe_1794298927918.jpg',
+      '/src/assets/images/hero_automotive_showroom_1794036248039.jpg',
+    ],
+    status: 'Available',
+    featured: true,
+    createdAt: new Date().toISOString(),
+  },
 ];
 
 const SEED_PRODUCTS: Product[] = [
@@ -340,6 +373,30 @@ const SEED_PRODUCTS: Product[] = [
     isAvailable: true,
     images: ['/src/assets/images/product_detailing_kit_1794036249646.jpg'],
     featured: false,
+    createdAt: new Date().toISOString(),
+  },
+  {
+    id: 'prod-7',
+    name: 'WD-40 Specialist White Lithium Grease Spray',
+    category: 'Lubricants',
+    sizeVariant: '400ml Precision Can',
+    variants: [
+      { id: 'var-10', name: '400ml Precision Can', price: 16.5, stock: 90 },
+    ],
+    price: 16.5,
+    isDemonstrationPrice: false,
+    description:
+      'High-viscosity thick grease formula engineered for heavy metal-to-metal contact. Provides long-lasting lubrication and non-drip weather-resistant barrier against friction, rust, and extreme heat.',
+    specifications: [
+      'Temperature resistant from -18°C to +145°C',
+      'Water and moisture resistant non-drip coating',
+      'Ideal for automotive gears, hinges, winches, and tow bars',
+      'Certified genuine WD-40 Specialist formula',
+    ],
+    stock: 90,
+    isAvailable: true,
+    images: ['/src/assets/images/product_wd40_grease_1794298928400.jpg'],
+    featured: true,
     createdAt: new Date().toISOString(),
   },
 ];
